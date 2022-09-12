@@ -1,0 +1,2 @@
+maiorDeIdade = (idade >= 18)
+
